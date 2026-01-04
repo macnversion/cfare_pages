@@ -1,0 +1,5 @@
+{
+  "name": "Billiards Soccer",
+  "description": "A tactical soccer game simulation using billiards mechanics. Control your team of 11 player balls to strike the soccer ball and score goals against your opponent. Features two teams, a scoring system, and realistic physics.",
+  "requestFramePermissions": []
+}
